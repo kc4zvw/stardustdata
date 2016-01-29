@@ -1,0 +1,21 @@
+#
+# $Id: robot.txt,v 0.3 2015/11/02 17:01:02 root Exp root $
+#
+
+User-Agent: bender
+Disallow: /my_shiny_metal_ass
+
+User-Agent: Gort
+Disallow: /earth
+
+User-agent: zombies
+Disallow: /brains
+
+User-Agent: *
+Disallow: /harming/humans
+Disallow: /ignoring/human/orders
+Disallow: /harm/to/self
+
+# Real robots.txt - disallow all
+
+Disallow: /
