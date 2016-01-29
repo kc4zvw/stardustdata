@@ -1,0 +1,40 @@
+/* main stylesheet */
+
+h1.c2 {
+	color: darkblue;
+	text-align: center;
+}
+
+h2.c1 {
+	color: blue;
+}
+
+h5.c1 {
+	color: grey;
+}
+
+.indented {
+	padding-left: 25pt;
+	padding-right: 25pt;
+}
+.indent2 {
+	padding-left: 50pt;
+	padding-right: 50pt;
+}
+
+
+data-show-count {
+	/* what? */
+}
+
+div.c1 {
+	padding-left: 125pt;
+	padding-right: 125pt;
+}
+
+div.red {
+	color: red;
+	font-size: 2em;
+}
+
+/* End of file */
